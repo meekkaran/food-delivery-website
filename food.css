@@ -286,7 +286,171 @@ h1
 .overlay-right ul
 {
    position:absolute;
+   top:120%;
+   margin-left: 10px;
+   list-style-type: none;
+   transition: 0.5s;
+   cursor:pointer;
 }
+.overlay-right ul li
+{
+	margin:10px;
+	font-size: 16px;
+}
+.overlay-right ul li .but
+{
+	border-spacing: 30px;
+}
+.overlay-right ul li .fa
+{
+	padding:5px;
+}
+
+.right2
+{
+    display:inline-block;
+
+}
+.right2 ul
+{
+   position:absolute;
+   top:180%;
+   margin-left: 10px;
+   list-style-type: none;
+   transition: 0.5s;
+   cursor:pointer;
+}
+.right2 ul li
+{
+	margin:10px;
+	font-size: 16px;
+}
+.right2 ul li .but
+{
+	border-spacing: 30px;
+}
+.right2 ul li .fa
+{
+	padding:5px;
+}
+
+.right3
+{
+    display:inline-block;
+
+}
+.right3 ul
+{
+   position:absolute;
+   top:240%;
+   margin-left: 10px;
+   list-style-type: none;
+   transition: 0.5s;
+   cursor:pointer;
+}
+.right3 ul li
+{
+	margin:10px;
+	font-size: 16px;
+}
+.right3 ul li .but
+{
+	border-spacing: 30px;
+}
+.right3 ul li .fa
+{
+	padding:5px;
+}
+.right4
+{
+    display:inline-block;
+
+}
+.right4 ul
+{
+   position:absolute;
+   top:300%;
+   margin-left: 10px;
+   list-style-type: none;
+   transition: 0.5s;
+   cursor:pointer;
+}
+.right4 ul li
+{
+	margin:10px;
+	font-size: 16px;
+}
+.right4 ul li .but
+{
+	border-spacing: 30px;
+}
+.right4 ul li .fa
+{
+	padding:5px;
+}
+
+.last img
+{
+	width:1350px;
+	height:500px;
+	padding-top: 4%;
+}
+.last p
+{
+	color:brown;
+	font-size: 40px;
+	position: absolute;
+	left:40%;
+	top:370%;
+	border: 1px solid brown;
+	border-radius:
+}
+
+h6
+{
+	padding: 8px;
+	font-size: 20px;
+}
+.final p{
+	padding: 5px;
+}
+.finalesection{
+    width: 100%;
+	height: auto;
+	display:inline-block;
+
+}
+.final
+{
+	top:500%;
+	margin-top: 40px;
+	width:15%;
+	height:300px;
+	float: left;
+	margin-left: 12px;
+	padding:8px;
+}
+.final ul{
+	font-size: 40px;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
